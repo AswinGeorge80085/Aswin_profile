@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/[AswinGeorge80085]/[AswinGeorge80085]/main/banner.png" alt="Nexus Dark Futuristic Banner" width="100%"/>
-
 <h1>Hi there, I'm <span style="color:#00f0ff;">[Aswin George]</span> 👋</h1>
 
 <p>
