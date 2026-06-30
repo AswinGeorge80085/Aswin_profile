@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi there, I'm <span style="color:#00f0ff;">[Aswin George]</span> 👋</h1>
+<h1>Hi there, I'm <span style="color:#00f0ff;">Aswin George</span> 👋</h1>
 
 <p>
   <span style="font-size:1.1em; color:#c026d3;">Aspiring Data Scientist</span> 
