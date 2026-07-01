@@ -13,9 +13,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&color=00f0ff&center=true&vCenter=true&width=600&lines=Exploring+the+frontiers+of+Data+Science;Turning+data+into+intelligence;Deep+Learning+%7C+NLP+%7C+GenAI" alt="Typing SVG" />
 </p>
 
-[![GitHub Followers](https://img.shields.io/github/followers/[YOUR-USERNAME]?style=for-the-badge&color=00f0ff&logo=github&logoColor=white)](https://github.com/[YOUR-USERNAME])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00f0ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-
 </div>
 
 ---
