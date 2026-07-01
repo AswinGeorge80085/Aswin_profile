@@ -61,7 +61,7 @@ End-to-end Deep Learning solution for sentiment analysis using NLP techniques, T
 **HR Analytics - Employee Absenteeism Prediction**  
 Machine Learning system for predicting employee absenteeism with comprehensive EDA, preprocessing, and model evaluation. Deployed using Flask.  
 **Tech**: Python, Scikit-learn, Flask, Pandas, Seaborn  
-[View Project →]([https://github.com/[YOUR-USERNAME]/hr-absenteeism-prediction](https://github.com/AswinGeorge80085/hr-analytics-absenteeism-prediction))
+[View Project →](https://github.com/AswinGeorge80085/hr-analytics-absenteeism-prediction)
 
 **Plant Disease Classification Using Deep Learning**  
 Transfer learning project using ResNet50, EfficientNet-B0, and ConvNeXt architectures for automated plant disease detection.  
