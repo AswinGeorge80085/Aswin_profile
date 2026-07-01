@@ -74,35 +74,12 @@ Advanced employee absenteeism prediction model.
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00f0ff&text_color=ffffff&icon_color=00f0ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00f0ff&text_color=ffffff)
-
-</div>
-
----
-
-### 🏆 Achievements
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=[YOUR-USERNAME]&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true)
-
-</div>
-
----
-
 ### 📫 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00f0ff?style=for-the-badge&logo=vercel&logoColor=black)](https://yourportfolio.com)
+[![LinkedIn](https://www.linkedin.com/in/aswin-george-203ab32a0/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aswingeo1983@gmail.com)
 
 </div>
 
