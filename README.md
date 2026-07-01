@@ -56,21 +56,21 @@ Currently exploring advanced NLP techniques, computer vision, and scalable ML de
 **IMDB Sentiment Analysis System**  
 End-to-end Deep Learning solution for sentiment analysis using NLP techniques, TF-IDF, GloVe embeddings, Logistic Regression, LSTM & BiLSTM models. Deployed with Streamlit.  
 **Tech**: Python, TensorFlow/Keras, NLTK, Streamlit  
-[View Project →](https://github.com/[YOUR-USERNAME]/imdb-sentiment-analysis)
+[View Project →](https://github.com/AswinGeorge80085/IMDB_sentiment_analysis_deep_learning)
 
 **HR Analytics - Employee Absenteeism Prediction**  
 Machine Learning system for predicting employee absenteeism with comprehensive EDA, preprocessing, and model evaluation. Deployed using Flask.  
 **Tech**: Python, Scikit-learn, Flask, Pandas, Seaborn  
-[View Project →](https://github.com/[YOUR-USERNAME]/hr-absenteeism-prediction)
+[View Project →]([https://github.com/[YOUR-USERNAME]/hr-absenteeism-prediction](https://github.com/AswinGeorge80085/hr-analytics-absenteeism-prediction))
 
 **Plant Disease Classification Using Deep Learning**  
 Transfer learning project using ResNet50, EfficientNet-B0, and ConvNeXt architectures for automated plant disease detection.  
 **Tech**: Python, TensorFlow, Keras, Computer Vision  
-[View Project →](https://github.com/[YOUR-USERNAME]/plant-disease-classification)
+[View Project →](https://github.com/AswinGeorge80085/Plant_Disease_Classification_Using_Deep_Learning)
 
-**Sentiment Forge**  
-Advanced sentiment analysis tool powered by Deep Learning models.  
-[View Project →](https://github.com/[YOUR-USERNAME]/sentiment-forge)
+**Employee absenteeism prediction project analysis**  
+Advanced employee absenteeism prediction model.  
+[View Project →](https://github.com/AswinGeorge80085/Employee_absenteeism_prediction_project_analysis)
 
 ---
 
