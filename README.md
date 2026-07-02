@@ -74,17 +74,6 @@ Advanced employee absenteeism prediction model.
 
 ---
 
-### 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://www.linkedin.com/in/aswin-george-203ab32a0/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aswingeo1983@gmail.com)
-
-</div>
-
----
-
 <div align="center" style="margin-top: 30px; color: #666; font-size: 0.9em;">
   <i>Crafting the future with data • Powered by curiosity</i>
 </div>
